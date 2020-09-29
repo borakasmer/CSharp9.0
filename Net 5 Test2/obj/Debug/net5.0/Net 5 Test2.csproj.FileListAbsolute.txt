@@ -1,0 +1,16 @@
+C:\Users\borakasmer\source\repos\Net 5 Test\Net 5 Test2\obj\Debug\net5.0\Net 5 Test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borakasmer\source\repos\Net 5 Test\Net 5 Test2\obj\Debug\net5.0\Net 5 Test2.AssemblyInfoInputs.cache
+C:\Users\borakasmer\source\repos\Net 5 Test\Net 5 Test2\obj\Debug\net5.0\Net 5 Test2.AssemblyInfo.cs
+C:\Users\borakasmer\source\repos\Net 5 Test\Net 5 Test2\obj\Debug\net5.0\Net 5 Test2.csproj.CoreCompileInputs.cache
+C:\Users\borakasmer\source\repos\Net 5 Test\Net 5 Test2\bin\Debug\net5.0\Net 5 Test2.exe
+C:\Users\borakasmer\source\repos\Net 5 Test\Net 5 Test2\bin\Debug\net5.0\Net 5 Test2.deps.json
+C:\Users\borakasmer\source\repos\Net 5 Test\Net 5 Test2\bin\Debug\net5.0\Net 5 Test2.runtimeconfig.json
+C:\Users\borakasmer\source\repos\Net 5 Test\Net 5 Test2\bin\Debug\net5.0\Net 5 Test2.runtimeconfig.dev.json
+C:\Users\borakasmer\source\repos\Net 5 Test\Net 5 Test2\bin\Debug\net5.0\Net 5 Test2.dll
+C:\Users\borakasmer\source\repos\Net 5 Test\Net 5 Test2\bin\Debug\net5.0\ref\Net 5 Test2.dll
+C:\Users\borakasmer\source\repos\Net 5 Test\Net 5 Test2\bin\Debug\net5.0\Net 5 Test2.pdb
+C:\Users\borakasmer\source\repos\Net 5 Test\Net 5 Test2\obj\Debug\net5.0\Net 5 Test2.dll
+C:\Users\borakasmer\source\repos\Net 5 Test\Net 5 Test2\obj\Debug\net5.0\ref\Net 5 Test2.dll
+C:\Users\borakasmer\source\repos\Net 5 Test\Net 5 Test2\obj\Debug\net5.0\Net 5 Test2.pdb
+C:\Users\borakasmer\source\repos\Net 5 Test\Net 5 Test2\obj\Debug\net5.0\Net 5 Test2.genruntimeconfig.cache
+C:\Users\borakasmer\source\repos\Net 5 Test\Net 5 Test2\obj\Debug\net5.0\Net 5 Test2.csprojAssemblyReference.cache
